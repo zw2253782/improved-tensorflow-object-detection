@@ -32,7 +32,7 @@ Although there is no constraint on the version, this repository is written with 
 
 ### Tensorflow
 It shouldn't be difficult for you install and configure tensorflow following the [official guide](https://www.tensorflow.org/install/). It is strongly recommended that you [install from source](https://www.tensorflow.org/install/install_sources). By compiling on your own computer, Tensorflow can fully utilize the features that increases its speed. 
-
+So sudo rm -rf ~/.local/lib/python2.7/site-packages/
 ### OpenCV-Python
 OpenCV-Python is [OpenCV](https://opencv.org/)'s Python library. As is mentioned in the previous chapter, OpenCV is indispensable for performance. To install, Python 3 users should execute:
 ```bash
